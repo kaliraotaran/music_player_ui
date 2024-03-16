@@ -1,16 +1,8 @@
-# music_player_ui
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<img width="391" alt="image" src="https://github.com/kaliraotaran/music_player_ui/assets/81376236/ba2dcd93-9ad5-47c5-b641-06ba0bb23555">
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Uploading image.png…]()
